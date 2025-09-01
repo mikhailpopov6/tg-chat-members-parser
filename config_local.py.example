@@ -1,0 +1,14 @@
+"""
+Local configuration file - COPY THIS TO config_local.py AND FILL IN YOUR CREDENTIALS
+DO NOT COMMIT config_local.py TO GIT!
+"""
+
+# Telegram API credentials
+# Get these from https://my.telegram.org/apps
+API_ID = 'your_api_id_here'
+API_HASH = 'your_api_hash_here'
+PHONE_NUMBER = '+your_phone_number_here'  # Include country code, e.g., '+79001234567'
+GROUP_LINK = 'https://t.me/your_channel_link_here'
+
+# Optional: Session name for Telegram client
+SESSION_NAME = 'session_name'
