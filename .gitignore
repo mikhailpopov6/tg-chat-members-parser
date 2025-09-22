@@ -55,6 +55,7 @@ logs/
 # Configuration files with credentials
 config_local.py
 *.local.py
+bot_config_local.py
 
 # OS
 .DS_Store
